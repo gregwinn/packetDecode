@@ -1,0 +1,11 @@
+{
+  "name": "packet_decode",
+  "version": "0.0.1",
+  "description": "Decodes select BLE packets from raw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Winn <winn.greg@gmail.com>",
+  "license": "ISC"
+}
